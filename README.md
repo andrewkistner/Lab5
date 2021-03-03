@@ -1,6 +1,6 @@
 # Lab5
 Contributors:
-Andrew Kistner
+Andrew Kistner and
 Yves Bayubahe
 
 Lab 5 for Big Ideas in Information and Computing using basic python.
